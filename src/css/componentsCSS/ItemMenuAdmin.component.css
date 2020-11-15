@@ -1,0 +1,10 @@
+.div-button-item-admin{
+    width:120px;
+    padding:10px;
+    font-weight:bold;
+    border:1px solid red;
+}
+
+.div-button-item-admin:hover{
+    width: 150px;
+}

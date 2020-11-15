@@ -1,0 +1,36 @@
+.div-top{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.div-center{
+    /* padding-top: 100px; */
+    /* margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(248, 248, 248);
+}
+.button-signin{
+    border: 1px solid rgba(15, 3, 3, 0.671);
+    border-radius: 0px;
+    margin-left:20px ;
+    margin-top: 20px;
+}
+.button-signup{
+    border: 1px solid black !important;
+    border-radius: 0px;
+    margin-top: 20px;
+  
+}
+.text-signin{
+    /* display: flex;
+    align-items: center; */
+    padding-right: 50px;
+}
+.text-password{
+    /* display: flex;
+    align-items: center;  */
+    padding-right: 50px;
+}
